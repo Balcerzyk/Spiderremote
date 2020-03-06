@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Robot pająk</string>
+    <string name="forward">Do przodu</string>
+    <string name="back">Do tyłu</string>
+    <string name="left">W lewo</string>
+    <string name="right">W prawo</string>
+    <string name="find_devices">Szukaj urządzeń</string>
+</resources>
